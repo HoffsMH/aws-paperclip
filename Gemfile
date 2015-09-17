@@ -28,6 +28,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Unicorn as the app server
 gem 'unicorn-rails'
+################
+gem 'figaro'
+gem 'bootstrap-sass'
+gem 'bcrypt'
+gem 'paperclip'
+gem 'aws-sdk'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
